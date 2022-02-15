@@ -20,7 +20,7 @@ url_estimates = "https://api.harvestapp.com/v2/estimates?page=1&per_page=100&ref
 """
 Replace the User-Agent, Authorization and Harvest-Account-ID details below with your details.   
 
-Follow instructions XXX
+Follow instructions in the readme file
 
 """
 
