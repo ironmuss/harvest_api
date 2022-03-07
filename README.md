@@ -1,5 +1,5 @@
 # A basic Harvest API using Python
-This is a basic python API script, pluggin into Harvest. This loads time entries and estimates into individual excel files.
+This is a basic python API script for Harvest. This loads time entries and estimates into individual excel files.
 
 In order for the script to work you will need to:
   - Retrieve a Harvest token
